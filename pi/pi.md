@@ -1,14 +1,14 @@
 # most important commands
 
 /login: login
+STRG + T: toggle thinking box
 
 
 # project setup
 
 
-Project .pi directory
-Copied
-Path 	Responsibility
+### Project .pi directory
+
 .pi/settings.json 	Project-level settings, resource paths, and Pi package declarations.
 .pi/mcp.json 	Project MCP servers.
 .pi/SYSTEM.md 	Replaces the system prompt for the project.

@@ -26,6 +26,7 @@ Während andere Coding-Agenten (wie Claude Code, Cursor oder Windsurf) auf riesi
 
 ---
 
+
 ## 2. Das komplette CLI- & Slash-Command-Lexikon
 
 ### 2.1 Die 4 Betriebsmodi über die Kommandozeile (CLI)
